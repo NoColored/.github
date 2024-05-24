@@ -9,8 +9,8 @@ https://nocolored.world
 ----- 
 
 ### 📁 Repository
-- [BACKEND REPOSITORY](https://github.com/NoColored/NoColored-fe)
-- [FRONTEND REPOSITORY](https://github.com/NoColored/NoColored-be)
+- [FRONTEND REPOSITORY](https://github.com/NoColored/NoColored-fe)
+- [BACKEND REPOSITORY](https://github.com/NoColored/NoColored-be)
 
 
 -----
