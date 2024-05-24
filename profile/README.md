@@ -1,6 +1,4 @@
-###### noColored.md
 
-<h1 align="center">NoColored</h1>
 <img alt="게임 시작 화면" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/landing_fullScreen.png" width="100%" height="100%"/>
 
 ### 🍀 Deploy URL
