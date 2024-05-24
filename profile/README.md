@@ -35,12 +35,12 @@ https://nocolored.world
 
 ### 📝 Specification
 
-- Notion : https://rb.gy/l1mz73
- : 요구사항 정의서 : https://t.ly/K1OZe
- : 기능명세서 (FE) : https://t.ly/7qerL
- : 기능명세서 (BE) : https://t.ly/bnTDN
-
-- Figma : https://t.ly/P3fog
+- Notion : https://rb.gy/l1mz73 <br>
+ : 요구사항 정의서 : https://t.ly/K1OZe <br>
+ : 기능명세서 (FE) : https://t.ly/7qerL <br>
+ : 기능명세서 (BE) : https://t.ly/bnTDN <br>
+  <br>
+- Figma : https://t.ly/P3fog <br>
 
 **시스템 아키텍쳐**
  <img alt="아키텍쳐" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/architecture.png" />
