@@ -1,7 +1,7 @@
 ###### noColored.md
 
 <h1 align="center">NoColored</h1>
-<img alt="게임 시작 화면" src="docs/images/main/view/landing_fullScreen.png" width="100%" height="100%"/>
+<img alt="게임 시작 화면" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/landing_fullScreen.png" width="100%" height="100%"/>
 
 ### 🍀 Deploy URL
 https://nocolored.world
@@ -29,7 +29,7 @@ https://nocolored.world
 ### 🧑‍🤝‍🧑 Member
 |            👑[이담비](https://github.com/damdam6)             |           🍪[김세진](https://github.com/nijesmik)            |             🎰[박은수](https://github.com/Gardener-soul)             |                            🏰[손의성](https://github.com/gabalja)                             |            💟[전민정](https://github.com/dolmeengii)             |                           🚗[차우열](https://github.com/dtdtdz)                           |
 |:----------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| <img alt="이담비" src="docs/images/main/member/damdam6.jpg"/> | <img alt="김세진" src="docs/images/main/member/celin.jpg" /> | <img alt="gardener" src="docs/images/main/member/gardener.jpg" /> | <img alt="gabalja" src="docs/images/main/member/gabalja.png" width="230px" height="full" > | <img alt="oree" src="docs/images/main/member/oree_egg.jpg" /> | <img alt="dtdtdz" src="docs/images/main/member/dtdtdz.png" width="230" height="100%"/> |
+| <img alt="이담비" src="https://github.com/damdam6.png"/> | <img alt="김세진" src="https://github.com/celin.png" /> | <img alt="gardener" src="https://github.com/gardener.png" /> | <img alt="gabalja" src="https://github.com/gabalja.png" width="230px" height="full" > | <img alt="oree" src="https://github.com/oree_egg.png" /> | <img alt="dtdtdz" src="https://github.com/dtdtdz.png" width="230" height="100%"/> |
 
 -----
 
@@ -43,7 +43,7 @@ https://nocolored.world
 - Figma : https://t.ly/P3fog
 
 **시스템 아키텍쳐**
- <img alt="아키텍쳐" src="docs/images/main/view/architecture.png" />
+ <img alt="아키텍쳐" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/architecture.png" />
 
 -----
 
@@ -66,15 +66,15 @@ https://nocolored.world
 
 |                                     메인 페이지                                      |                                     컬렉션(스킨,칭호,업적)                                      |
 |:-------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| <img alt="메인" src="docs/images/main/view/home.gif" width="100%" height="100%" > | <img alt="컬렉션" src="docs/images/main/view/collection.gif" width="100%" height="100%" > |
+| <img alt="메인" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/home.gif" width="100%" height="100%" > | <img alt="컬렉션" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/collection.gif" width="100%" height="100%" > |
 
 |                                      친선전 로비                                       |                                      친선전 대기실                                      |
 |:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-| <img alt="로비" src="docs/images/main/view/finder.gif" width="100%" height="100%" > | <img alt="대기실" src="docs/images/main/view/foody.gif" width="100%" height="100%" > |
+| <img alt="로비" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/finder.gif" width="100%" height="100%" > | <img alt="대기실" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/foody.gif" width="100%" height="100%" > |
 
 |                                      랭킹전 매칭/로딩                                      |                                       게임                                        |
 |:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-| <img alt="매칭" src="docs/images/main/view/matching.gif" width="100%" height="100%" > | <img alt="게임" src="docs/images/main/view/game.gif" width="100%" height="100%" > |
+| <img alt="매칭" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/matching.gif" width="100%" height="100%" > | <img alt="게임" src="https://github.com/NoColored/.github/blob/main/profile/docs/images/main/view/game.gif" width="100%" height="100%" > |
 
 
 ---
@@ -155,7 +155,8 @@ https://nocolored.world
 
 ---
 
-### 📌 More About NoColored
-- [브랜치 전략](https://github.com/NoColored/.github/wiki/%F0%9F%96%87%E2%80%8D-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5)
+### 📌 More About TEAM-NoColored
+- [브랜치/커밋 전략](https://github.com/NoColored/.github/wiki/%F0%9F%96%87%E2%80%8D-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5)
+- [프로젝트 후기](https://github.com/NoColored/.github/wiki/%F0%9F%A5%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 
 
